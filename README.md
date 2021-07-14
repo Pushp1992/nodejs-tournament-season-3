@@ -1,6 +1,6 @@
-#  Node js Hiring Tournament - Season 2
+#  Node js Hiring Tournament - Season 3
 
-This is a Node js Hiring Tournament - Season 2. 
+This is a Node js Hiring Tournament - Season 3. 
 
 ## Required Prerequisites
 
